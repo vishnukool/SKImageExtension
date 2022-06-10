@@ -1,0 +1,16 @@
+PODS:
+  - SKImageExtension (0.1.0)
+
+DEPENDENCIES:
+  - SKImageExtension (from `../`)
+
+EXTERNAL SOURCES:
+  SKImageExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SKImageExtension: 914208389f9cfc4de8c1622e67d029b7ddd234bc
+
+PODFILE CHECKSUM: fa14d48647325bbdd1fb26f25437cf5d9694f11e
+
+COCOAPODS: 1.11.3
